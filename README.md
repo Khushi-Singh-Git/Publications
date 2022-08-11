@@ -24,6 +24,9 @@ Titled as "Design of low cost IoT enabled Greenhouse Control System for Precisio
 
 ![Best Paper award_58_Khushi Singh_page-0001](https://user-images.githubusercontent.com/107871742/174885560-bd9a3fc4-fa01-4439-8d0b-3c66e4e6b153.jpg)
 
+![2037-greenhouse_page-0001](https://user-images.githubusercontent.com/107871742/184084990-dfd4f67d-5358-4f3a-bb90-d223d453f4df.jpg)
+
+
 ![EECI-58___Khushi Singh_PRESENTED CERTIFICATE_page-0001](https://user-images.githubusercontent.com/107871742/174885109-9e91880c-5a08-454e-ae26-01482b6cce8d.jpg)
 
 
