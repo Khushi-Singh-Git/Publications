@@ -1,4 +1,4 @@
-# Publications
+# :book: Publications
 
 ### :one: Winner of Best Paper Presentation Award in Smart materials, sensors, instrumentation, AI and IoT track, International Conference on Multidisciplinary Aspects of Materials in Engineering 2021 (IC-MAME 2021, UIET PUNJAB) 
 
